@@ -1,0 +1,4 @@
+1. Hide 2 providers
+2. server.php
+3. public/index.php
+4. database new tables ( bundles and bndle_products has been added )

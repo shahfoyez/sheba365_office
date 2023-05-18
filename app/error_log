@@ -1,0 +1,16 @@
+[05-Mar-2023 06:38:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shebaco1/public_html/app/Addon.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shebaco1/public_html/app/Addon.php on line 7
+[05-Mar-2023 06:39:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shebaco1/public_html/app/Banner.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shebaco1/public_html/app/Banner.php on line 7
+[05-Mar-2023 06:39:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shebaco1/public_html/app/Color.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shebaco1/public_html/app/Color.php on line 7
+[05-Mar-2023 06:39:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/shebaco1/public_html/app/Coupon.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/shebaco1/public_html/app/Coupon.php on line 7
